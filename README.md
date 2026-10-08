@@ -50,4 +50,4 @@ learn, contribute, and grow as a software engineer.
 
 ## 📫 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/thant-thiha-847336442)
+- [LinkedIn](https://www.linkedin.com/in/thant-thiha-847336442))
