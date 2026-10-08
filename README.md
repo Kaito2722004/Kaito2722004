@@ -26,23 +26,24 @@ Git • GitHub • Docker • VS Code
 
 ## 🚀 Featured Projects
 
-- 📊 Dynamic Survey & Analytics Platform
-- 🏋️ Gym Management System
-- ⚡ Vision-Based Smart Energy Saving System
+### 📊 Dynamic Survey & Analytics Platform
+React • TypeScript • Supabase • PostgreSQL
+
+### 🏋️ Gym Management System
+Java • Spring Boot • React • PostgreSQL
+
+### ⚡ Vision-Based Smart Energy Saving System
+Python • Computer Vision
 
 ## 📚 Currently Learning
 
 - Spring Boot
 - Java EE
-- Database Design
 - REST API Development
+- Database Design
+- Software Engineering
 
-## 🎯 Career Goal
+## 🎯 Looking For
 
-Looking for Software Engineering Internship opportunities
-where I can learn, contribute, and grow as a software engineer.
-
-## 📫 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
-
+Software Engineering Internship opportunities where I can
+learn, contribute, and grow as a software engineer.
