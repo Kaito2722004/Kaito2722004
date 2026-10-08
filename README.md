@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Thant Thiha 👋
 
-<!--
-**Kaito2722004/Kaito2722004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at University of Information Technology (UIT)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications and learning software engineering
+through real-world projects.
+
+## 🛠️ Tech Stack
+
+### Languages
+Java • JavaScript • TypeScript • Python • SQL
+
+### Backend
+Spring Boot • Spring MVC • REST APIs
+
+### Frontend
+React • HTML • CSS
+
+### Database
+PostgreSQL • Supabase • MySQL
+
+### Tools
+Git • GitHub • Docker • VS Code
+
+## 🚀 Featured Projects
+
+- 📊 Dynamic Survey & Analytics Platform
+- 🏋️ Gym Management System
+- ⚡ Vision-Based Smart Energy Saving System
+
+## 📚 Currently Learning
+
+- Spring Boot
+- Java EE
+- Database Design
+- REST API Development
+
+## 🎯 Career Goal
+
+Looking for Software Engineering Internship opportunities
+where I can learn, contribute, and grow as a software engineer.
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
+
