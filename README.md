@@ -47,3 +47,7 @@ Python • Computer Vision
 
 Software Engineering Internship opportunities where I can
 learn, contribute, and grow as a software engineer.
+
+## 📫 Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/thant-thiha-847336442)
